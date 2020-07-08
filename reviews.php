@@ -210,7 +210,7 @@ $form_reviews_url_4 = $reviews_plugin_options['form_reviews_url_4']; // Facebook
 	$Content .= '</div>'; // end reviews_row
 	$Content .= '<div class="reviews_row">';
 	$Content .= '<div id="low-score-segment">';
-	$Content .= '<div class="rowItem review-us-block"><div class="rowItemContent"><header class="header medium"><p class="boldSuperTitle">Step 2</p><h2><span class="dash"><span class="h2content">It looks like we could have done better.</span></span></h2></header><div class="btText"><p>If we’ve done something wrong or you have suggestions on how we can improve our services,<br>please let us know. Simply fill out the form below and we’ll do what we can to make things right.</p></div></div>';
+	$Content .= '<div class="rowItem review-us-block"><div class="rowItemContent"><header class="header medium"><p class="boldSuperTitle">Step 2</p><h2><span class="dash"><span class="h2content">It looks like we could have done better.</span></span></h2></header><div class="btText"><p>If we’ve done something wrong or you have suggestions on how we can improve our services,<br>please let us know. Simply fill out the form below and we’ll do what we can to make things right.</p></div></div></div>';
 	$Content .=  do_shortcode($form_reviews_url_4);
 	$Content .= '</div>'; // end low-score-segment
 	$Content .= '</div>'; // end reviews_row
